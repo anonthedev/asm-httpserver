@@ -1,2 +1,2 @@
-httpServer
-httpServer.o
+./httpServer
+./httpServer.o
